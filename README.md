@@ -2,6 +2,6 @@
 
 Hi!
 
-I'm like coding in VB.Net and C++. Javascript is also good.
+I'm like coding in VB.Net and C++ and sometimes Java.
 
 Bye!
